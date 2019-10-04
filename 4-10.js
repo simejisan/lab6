@@ -3,7 +3,7 @@ async function getData() {
     let json = await data.json();
     return json;
 }
-getData('https://gorest.co.in/public-api/users?_format=json&access-token=cvFY5s2Yb9_Cgx8uudID_KOxQPO99O7NqmRO')
+// getData('https://gorest.co.in/public-api/users?_format=json&access-token=cvFY5s2Yb9_Cgx8uudID_KOxQPO99O7NqmRO')
 // async function main() {
 
 //     let data = await getData('https://gorest.co.in/public-api/users?_format=json&access-token=cvFY5s2Yb9_Cgx8uudID_KOxQPO99O7NqmRO');
